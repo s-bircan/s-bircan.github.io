@@ -1,0 +1,8 @@
+# GitHub Pages configuration
+title: Seray Bircan Afsin
+description: Doctoral Candidate in Sociology, University of Illinois at Urbana-Champaign
+
+# Set to "" if deploying as a user/org page (username.github.io)
+# Set to "/repository-name" if deploying as a project page
+baseurl: ""
+url: ""
